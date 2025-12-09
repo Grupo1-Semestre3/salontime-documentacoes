@@ -16,6 +16,7 @@ Repositório central dos documentos do projeto Salontime.
 ### Produto e Usuários
 - Manual do Usuário: `SalonTime_Manual_do_Usuario.pdf`
 - Manual de Instalação: `SalonTime-Manual-Instalação-v2.pdf`
+- Especificação Funcional: `especificacaoFuncionalGP01`
 
 ### Planejamento e Qualidade
 - Cronograma: `Salontime.cronograma.xlsx`
